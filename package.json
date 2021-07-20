@@ -1,0 +1,34 @@
+{
+    "name": "derw-syntax",
+    "displayName": "derw-syntax",
+    "description": "Syntax highlighting for Derw",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "derw",
+                "aliases": [
+                    "Derw",
+                    "derw"
+                ],
+                "extensions": [
+                    ".derw"
+                ],
+                "configuration": "./language-configuration.json"
+            }
+        ],
+        "grammars": [
+            {
+                "language": "derw",
+                "scopeName": "source.derw",
+                "path": "./syntaxes/derw-syntax.json"
+            }
+        ]
+    }
+}
