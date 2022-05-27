@@ -163,7 +163,7 @@
             "name": "keyword.other.derw"
         },
         {
-            "match": "\\b(if|then|else|case|of|let|in)\\s+",
+            "match": "\\b(if|then|else|case|of|let|in|do|return)\\s+",
             "name": "keyword.control.derw"
         },
         {
