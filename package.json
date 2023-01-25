@@ -2,6 +2,8 @@
     "name": "derw-syntax",
     "displayName": "derw-syntax",
     "description": "Syntax highlighting for Derw",
+	"author": "eeue56",
+    "repository": "https://github.com/derw-lang/derw-syntax",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
