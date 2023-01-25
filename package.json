@@ -5,6 +5,12 @@
 	"author": "eeue56",
     "repository": "https://github.com/derw-lang/derw-syntax",
     "publisher": "derw",
+    "keywords": [ "derw", "syntax", "highlighting" ],
+    "sponsor": {
+        "url": "https://github.com/sponsors/eeue56"
+    },
+    "pricing": "Free",
+    "icon": "derw_logo.png",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.58.0"
