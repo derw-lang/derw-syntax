@@ -20,6 +20,10 @@ None
 
 Users appreciate release notes as you update your extension.
 
+### 0.0.2
+
+Add logo and sponsor links
+
 ### 0.0.1
 
 Alpha release
